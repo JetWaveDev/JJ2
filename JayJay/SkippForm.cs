@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace JayJay
 {
-    public partial class Form1 : Form
+    public partial class SkippForm : Form
     {
-        public Form1()
+        public SkippForm()
         {
             InitializeComponent();
-        }
-
-        private void SkipButton_Click(object sender, EventArgs e)
-        {
-            Hide();
-            SkippForm SF = new SkippForm();
-            SF.Show();                       
         }
     }
 }
