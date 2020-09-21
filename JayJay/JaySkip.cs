@@ -9,6 +9,7 @@ namespace JayJay
     class JaySkip
     {
         private int jaySkip = 8;
+        private int jayMcg = 69;
         private float skipjay = 3.5f;
     }
 }
