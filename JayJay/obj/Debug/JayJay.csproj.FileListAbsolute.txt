@@ -1,0 +1,10 @@
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\bin\Debug\JayJay.exe.config
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\bin\Debug\JayJay.exe
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\bin\Debug\JayJay.pdb
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.csprojAssemblyReference.cache
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.Form1.resources
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.Properties.Resources.resources
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.csproj.GenerateResource.cache
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.csproj.CoreCompileInputs.cache
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.exe
+C:\Users\396835\source\repos\JetWaveDev\JJ2\JayJay\obj\Debug\JayJay.pdb
